@@ -5,9 +5,26 @@
 
 <div align="center">
 
-<img src="https://media2.giphy.com/media/GPcDor27ptw2PiSwCB/giphy.gif?cid=790b7611f116c6d5b3f142bc1916b3f951acbb0e9b0dbcfd&rid=giphy.gif" width="480" height="360" class="giphy-embed"/>
+<img src="https://media2.giphy.com/media/GPcDor27ptw2PiSwCB/giphy.gif?cid=790b7611f116c6d5b3f142bc1916b3f951acbb0e9b0dbcfd&rid=giphy.gif" width="240" height="180" class="giphy-embed"/>
+
+<br/>
+<br/>
+
+<div id="badges">
+  <a href="https://github.com/uepzues">
+    <img src="https://img.shields.io/badge/Github-success?labelColor=grey&style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
+  </a>
+  <a href="https://github.com/uepzues">
+    <img src="https://img.shields.io/badge/Twitter-success?labelColor=blue&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+
+<img src="https://komarev.com/ghpvc/?username=uepzues&style=flat-square&color=blue" alt=""/>
 
 </div>
+
+<br/>
+<br/>
 
 <div align="center">
 
